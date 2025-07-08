@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Items\Add.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Items\Back.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Items\Notification.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Map.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Auth\Info.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Auth\Redact.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Auth\RegIn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Literature\Item.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Literature\Order.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Literature\Redact.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ReFill\Group.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Items\Add.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Items\Back.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Items\Notification.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Auth\LogIn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Library\Item.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Library\Redact.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Library\View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ReFill\Group.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ReFill\Item.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ReFill\Redact.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ReFill\View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Literature\Item.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Literature\Redact.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Literature\View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Style\Styles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

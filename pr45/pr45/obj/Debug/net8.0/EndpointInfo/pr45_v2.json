@@ -1,0 +1,67 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Руководство для использования запросов",
+    "description": "Полное руководство для использования запросов находящихся в проекте",
+    "version": "v2"
+  },
+  "paths": {
+    "/api/UserController/SignIn": {
+      "post": {
+        "tags": [
+          "UsersCont"
+        ],
+        "parameters": [
+          {
+            "name": "Login",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "Password",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/UserController/RegIn": {
+      "post": {
+        "tags": [
+          "UsersCont"
+        ],
+        "parameters": [
+          {
+            "name": "Login",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "Password",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

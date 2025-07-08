@@ -1,0 +1,27 @@
+﻿<Page x:Class="TychkclLibraryFund.Pages.Auth.LogIn"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:fa="http://schemas.fontawesome.io/icons/"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TychkclLibraryFund.Pages.Auth"
+      mc:Ignorable="d"
+      Title="RegIn" Margin="15 5 15 0" MinWidth="100">
+    <Grid>
+        <StackPanel>
+            <TextBox Style="{StaticResource TextBox}" x:Name="phone" Tag="Телефон"/>
+            <Label Content="Пароль:" Style="{StaticResource ItemTextLabel}" Foreground="{StaticResource LightBack}" FontSize="16"/>
+            <PasswordBox Style="{StaticResource PasswordBox}" x:Name="pass" Tag="Пароль" PasswordChar="*" CaretBrush="Black"/>
+        </StackPanel>
+        <UserControl Style="{StaticResource USStyle}" Width="40" Height="40" 
+     HorizontalAlignment="Left" VerticalAlignment="Bottom"
+     Margin="0 0 0 8.5">
+            <Button Click="gologin" ToolTip="Войти" fa:Awesome.Content="UserPlus" Style="{StaticResource ItemButton}"/>
+        </UserControl>
+        <UserControl Style="{StaticResource USStyle}" Width="40" Height="40" 
+             HorizontalAlignment="Right" VerticalAlignment="Bottom"
+             Margin="0 0 0 8.5">
+            <Button Click="ready" ToolTip="Применить" fa:Awesome.Content="Check" Style="{StaticResource ItemButton}"/>
+        </UserControl>
+    </Grid>
+</Page>

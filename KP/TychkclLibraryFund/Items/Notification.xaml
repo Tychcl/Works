@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="TychkclLibraryFund.Items.Notification"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TychkclLibraryFund.Items"
+             mc:Ignorable="d" 
+             Style="{StaticResource USStyle}" MinWidth="130" x:Name="muc" Margin="8.5 0 8.5 8.5" MouseDown="click">
+    <Grid>
+        <Label x:Name="msg" Content="Message" Style="{StaticResource ItemTextLabel}" Margin="3" Height="30"/>
+    </Grid>
+</UserControl>

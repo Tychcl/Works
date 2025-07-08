@@ -1,0 +1,22 @@
+﻿<Page x:Class="TychkclLibraryFund.Pages.Auth.Redact"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:fa="http://schemas.fontawesome.io/icons/"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TychkclLibraryFund.Pages.Auth"
+      mc:Ignorable="d" Title="Redact" Margin="15 5 15 0">
+    <Grid>
+        <StackPanel>
+            <TextBox Style="{StaticResource TextBox}" x:Name="fio" Tag="ФИО" Text="{Binding FIO}"/>
+            <TextBox Style="{StaticResource TextBox}" x:Name="phone" Tag="Телефон" Text="{Binding Phone}"/>
+            <TextBox Style="{StaticResource TextBox}" x:Name="pass" Tag="Пароль" />
+            <TextBox Style="{StaticResource TextBox}" x:Name="newpass" Tag="Новый пароль"/>
+        </StackPanel>
+        <UserControl Style="{StaticResource USStyle}" Width="40" Height="40" 
+         HorizontalAlignment="Right" VerticalAlignment="Bottom"
+         Margin="0 0 0 8.5">
+            <Button Click="ready" ToolTip="Применить" fa:Awesome.Content="Check" Style="{StaticResource ItemButton}"/>
+        </UserControl>
+    </Grid>
+</Page>

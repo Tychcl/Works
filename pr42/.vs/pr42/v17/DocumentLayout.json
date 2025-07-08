@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\classes\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\classes\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\context\\categoryscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\context\\categoryscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\context\\itemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\context\\itemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\modell\\categorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\modell\\categorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\modell\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\modell\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\view\\category\\categoryitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\view\\category\\categoryitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\view\\category\\categoryitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\view\\category\\categoryitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\view\\categorylist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\view\\categorylist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr42\\pr42\\view\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{170997E5-A715-4E52-87C3-F1C47F8B0AAD}|pr42\\pr42.csproj|solutionrelative:pr42\\view\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryItem.xaml",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\View\\Category\\CategoryItem.xaml",
+              "RelativeDocumentMoniker": "pr42\\View\\Category\\CategoryItem.xaml",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\View\\Category\\CategoryItem.xaml",
+              "RelativeToolTip": "pr42\\View\\Category\\CategoryItem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-08T08:48:43.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryItem.xaml.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\View\\Category\\CategoryItem.xaml.cs",
+              "RelativeDocumentMoniker": "pr42\\View\\Category\\CategoryItem.xaml.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\View\\Category\\CategoryItem.xaml.cs",
+              "RelativeToolTip": "pr42\\View\\Category\\CategoryItem.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:48:41.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsContext.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Context\\ItemsContext.cs",
+              "RelativeDocumentMoniker": "pr42\\Context\\ItemsContext.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Context\\ItemsContext.cs",
+              "RelativeToolTip": "pr42\\Context\\ItemsContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:20:57.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pr42\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pr42\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:29:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Items.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Modell\\Items.cs",
+              "RelativeDocumentMoniker": "pr42\\Modell\\Items.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Modell\\Items.cs",
+              "RelativeToolTip": "pr42\\Modell\\Items.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:13:50.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categorys.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Modell\\Categorys.cs",
+              "RelativeDocumentMoniker": "pr42\\Modell\\Categorys.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Modell\\Categorys.cs",
+              "RelativeToolTip": "pr42\\Modell\\Categorys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:10:52.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategorysContext.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Context\\CategorysContext.cs",
+              "RelativeDocumentMoniker": "pr42\\Context\\CategorysContext.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Context\\CategorysContext.cs",
+              "RelativeToolTip": "pr42\\Context\\CategorysContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:15:08.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Classes\\Connection.cs",
+              "RelativeDocumentMoniker": "pr42\\Classes\\Connection.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\Classes\\Connection.cs",
+              "RelativeToolTip": "pr42\\Classes\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:19:07.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryList.xaml",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\View\\CategoryList.xaml",
+              "RelativeDocumentMoniker": "pr42\\View\\CategoryList.xaml",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\View\\CategoryList.xaml",
+              "RelativeToolTip": "pr42\\View\\CategoryList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-08T08:51:42.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\View\\Main.xaml",
+              "RelativeDocumentMoniker": "pr42\\View\\Main.xaml",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr42\\pr42\\View\\Main.xaml",
+              "RelativeToolTip": "pr42\\View\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-08T08:51:41.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

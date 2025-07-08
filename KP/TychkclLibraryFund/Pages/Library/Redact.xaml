@@ -1,0 +1,33 @@
+﻿<Page x:Class="TychkclLibraryFund.Pages.Library.Redact"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TychkclLibraryFund.Pages.Library"
+      xmlns:fa="http://schemas.fontawesome.io/icons/"
+      xmlns:uc="clr-namespace:TychkclLibraryFund.Items"
+      mc:Ignorable="d"
+      Title="Redact" Margin="15 5 15 0" MinHeight="150" MinWidth="150">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="name" Text="{Binding Path=Name}" Tag="Название" Style="{StaticResource TextBox}"/>
+            <Grid>
+                <Border BorderThickness="0 0 0 2" BorderBrush="{StaticResource Fore}" Margin="0 0 45 0">
+                    <TextBlock x:Name="adres" Text="{Binding Path=Address}" Foreground="{StaticResource Fore}" FontFamily="Bahnschrift SemiBold Condensed" FontSize="20" TextWrapping="Wrap"/>
+                </Border>
+                <UserControl Style="{StaticResource USStyle}" Width="40" Height="40" 
+                        HorizontalAlignment="Right" VerticalAlignment="Center">
+                    <Button Click="OpenMap" ToolTip="Применить" fa:Awesome.Content="Map" Style="{StaticResource ItemButton}"/>
+                </UserControl>
+            </Grid>
+            <TextBox x:Name="mail" Text="{Binding Path=Mail}" Tag="Почта" Style="{StaticResource TextBox}"/>
+            <TextBox x:Name="phone" Text="{Binding Path=Phone}" Tag="Телефон" Style="{StaticResource TextBox}"/>
+        </StackPanel>
+        <uc:Back HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0 0 0 8.5"/>
+        <UserControl Style="{StaticResource USStyle}" Width="40" Height="40" 
+                     HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                     Margin="0 0 0 8.5">
+            <Button Click="add" ToolTip="Применить" fa:Awesome.Content="Edit" Style="{StaticResource ItemButton}"/>
+        </UserControl>
+    </Grid>
+</Page>

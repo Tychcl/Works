@@ -1,0 +1,147 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Руководство для использования запросов",
+    "description": "Полное руководство для использования запросов находящихся в проекте",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/fourfive/LiteratureList": {
+      "get": {
+        "tags": [
+          "fourfive"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/fourfive/LibraryList": {
+      "get": {
+        "tags": [
+          "fourfive"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/fourfive/LiteratureListBy": {
+      "get": {
+        "tags": [
+          "fourfive"
+        ],
+        "parameters": [
+          {
+            "name": "sortProperty",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "Name"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/fourfive/LibraryListBy": {
+      "get": {
+        "tags": [
+          "fourfive"
+        ],
+        "parameters": [
+          {
+            "name": "sortProperty",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "Name"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/TaskController/ListTask": {
+      "get": {
+        "tags": [
+          "Task"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/TaskController/ItemTask": {
+      "get": {
+        "tags": [
+          "Task"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/TaskController/ListUser": {
+      "get": {
+        "tags": [
+          "Task"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/TaskController/ItemUser": {
+      "get": {
+        "tags": [
+          "Task"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

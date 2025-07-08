@@ -1,0 +1,16 @@
+﻿<Application x:Class="TychkclLibraryFund.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TychkclLibraryFund"
+             xmlns:uc="clr-namespace:TychkclLibraryFund.Items"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/CustomWindow.Controls;component/Themes/CWStyles.xaml"/>
+                <ResourceDictionary Source="Style/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <Style TargetType="{x:Type ToolTip}" BasedOn="{StaticResource ToolTip}"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

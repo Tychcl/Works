@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\controllers\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\controllers\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\controllers\\put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\controllers\\put.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\controllers\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\controllers\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\controllers\\fourfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\controllers\\fourfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\models\\literature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\models\\literature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|g:\\ycheba\\mdk0101\\csharpprak\\pr45\\pr45\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7B1D94-A857-458C-B8A2-CA10C1FE91DC}|pr45\\pr45.csproj|solutionrelative:pr45\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\Delete.cs",
+              "RelativeDocumentMoniker": "pr45\\Controllers\\Delete.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\Delete.cs*",
+              "RelativeToolTip": "pr45\\Controllers\\Delete.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:03:09.472Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\User.cs",
+              "RelativeDocumentMoniker": "pr45\\Models\\User.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\User.cs",
+              "RelativeToolTip": "pr45\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:00:52.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "pr45\\Models\\Task.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\Task.cs",
+              "RelativeToolTip": "pr45\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:00:44.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Literature.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\Literature.cs",
+              "RelativeDocumentMoniker": "pr45\\Models\\Literature.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\Literature.cs",
+              "RelativeToolTip": "pr45\\Models\\Literature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:00:36.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Library.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "pr45\\Models\\Library.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\Library.cs",
+              "RelativeToolTip": "pr45\\Models\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:00:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "pr45\\Controllers\\TaskController.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "pr45\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:36:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Program.cs",
+              "RelativeDocumentMoniker": "pr45\\Program.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Program.cs",
+              "RelativeToolTip": "pr45\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:34:25.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\Users.cs",
+              "RelativeDocumentMoniker": "pr45\\Controllers\\Users.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\Users.cs",
+              "RelativeToolTip": "pr45\\Controllers\\Users.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:37:28.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fourfive.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\fourfive.cs",
+              "RelativeDocumentMoniker": "pr45\\Controllers\\fourfive.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\fourfive.cs",
+              "RelativeToolTip": "pr45\\Controllers\\fourfive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:34:08.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "pr45\\Models\\Context.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Models\\Context.cs",
+              "RelativeToolTip": "pr45\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:26:07.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Put.cs",
+              "DocumentMoniker": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\Put.cs",
+              "RelativeDocumentMoniker": "pr45\\Controllers\\Put.cs",
+              "ToolTip": "G:\\ycheba\\MDK0101\\CSharpPrak\\pr45\\pr45\\Controllers\\Put.cs",
+              "RelativeToolTip": "pr45\\Controllers\\Put.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwKAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:02:28.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

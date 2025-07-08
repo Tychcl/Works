@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>pr45</name>
+    </assembly>
+    <members>
+        <member name="P:pr45.Models.Task.Id">
+            <summary>
+            Код
+            </summary>
+        </member>
+        <member name="P:pr45.Models.Task.Name">
+            <summary>
+            Наименование
+            </summary>
+        </member>
+        <member name="P:pr45.Models.Task.Priority">
+            <summary>
+            Приоритет
+            </summary>
+        </member>
+        <member name="P:pr45.Models.Task.DateExecute">
+            <summary>
+            Дата выполнения
+            </summary>
+        </member>
+        <member name="P:pr45.Models.Task.Comment">
+            <summary>
+            Комментарий
+            </summary>
+        </member>
+        <member name="P:pr45.Models.Task.Done">
+            <summary>
+            Выполнение задачи
+            </summary>
+        </member>
+        <member name="P:pr45.Models.Users.Id">
+            <summary>
+            Код
+            </summary>
+        </member>
+        <member name="P:pr45.Models.Users.Login">
+            <summary>
+            Логин
+            </summary>
+        </member>
+        <member name="P:pr45.Models.Users.Password">
+            <summary>
+            Пароль
+            </summary>
+        </member>
+        <member name="P:pr45.Models.Users.Token">
+            <summary>
+            токен
+            </summary>
+        </member>
+    </members>
+</doc>

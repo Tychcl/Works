@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="TychkclLibraryFund.Pages.ReFill.Item"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:fa="http://schemas.fontawesome.io/icons/"
+             xmlns:local="clr-namespace:TychkclLibraryFund.Pages.ReFill"
+             mc:Ignorable="d" Style="{StaticResource USStyle}"
+             Margin="3" >
+    <Grid Margin="5" >
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left">
+            <TextBox Style="{StaticResource TextBox}" x:Name="lit" IsEnabled="False"/>
+            <Label Style="{StaticResource ItemTextLabel}" Content="{Binding Date}" x:Name="countdate"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="redact" Click="red" ToolTip="Изменить" Visibility="Collapsed"  fa:Awesome.Content="Edit" Style="{StaticResource ItemButton}"/>
+            <Button x:Name="delete" Click="del" ToolTip="Удалить" Visibility="Collapsed" fa:Awesome.Content="Trash" Style="{StaticResource ItemButton}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

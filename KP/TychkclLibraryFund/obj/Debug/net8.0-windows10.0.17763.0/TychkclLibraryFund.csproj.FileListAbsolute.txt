@@ -1,0 +1,1 @@
+E:\ycheba\MDK0101\CSharpPrak\KP\LibraryFundDesktop\TychkclLibraryFund\obj\Debug\net8.0-windows10.0.17763.0\TychkclLibraryFund.csproj.AssemblyReference.cache
